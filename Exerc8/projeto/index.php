@@ -7,3 +7,9 @@ echo "<br>";
 include "rodape.php";
 
 ?>
+
+<style>
+body{
+    background-color: wheat;
+}
+</style>

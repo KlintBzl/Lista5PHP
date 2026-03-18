@@ -7,3 +7,9 @@ foreach($nomes as $u){
 }
 
 ?>
+
+<style>
+body{
+    background-color: wheat;
+}
+</style>

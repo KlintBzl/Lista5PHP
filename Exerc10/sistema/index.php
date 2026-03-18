@@ -8,3 +8,9 @@ require_once "funcoes/saudacao.php";
 echo saudacao();
 
 ?>
+
+<style>
+body{
+    background-color: aliceblue;
+}
+</style>

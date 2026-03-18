@@ -6,3 +6,9 @@ require_once "utilidades.php";
 mostrarmensagem();
 
 ?>
+
+<style>
+body{
+    background-color: wheat;
+}
+</style>
